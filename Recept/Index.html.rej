@@ -1,0 +1,73 @@
+diff a/Recept/Index.html b/Recept/Index.html	(rejected hunks)
+@@ -0,0 +1,70 @@
++<!DOCTYPE html>
++
++<html lang="nl">
++
++<head>
++	<title>Macaroni Spinazie</title>
++	<link rel="stylesheet" type="text/css" href="style.css">
++</head>
++
++<body>
++
++	<header>
++		<h1>MACARONI SPINAZIE</h1>
++	</header>
++
++	<main>
++		<section>
++			<h2>INTRODUCTIE</h2>
++			<p>Dit is een lekker en gezond gerecht uit Italie. Het is makkelijk te maken en de ingerienten zijn goed verkrijgbaar.</p>
++
++			<img src="macaroni.jpg" alt="Macaroni">
++
++			<ul>
++				<li>De voorberijdingstijd van dit recept is ongeveer 20 minuten.</li>
++				<li>Dit gerecht is voor 4 personen geschikt.</li>
++			</ul>
++		</section>
++
++		<section>
++			<h2>INGREDIENTEN</h2>
++			<ul>
++				<li>500g macaroni schelpen</li>
++				<li>750g diepvries spinazie</li>
++				<li>2 bakjes boursin</li>
++				<li>2 bakjes spek</li>
++				<li>1 rode ui</li>
++			</ul>
++		</section>
++
++		<section>
++			<h2>BERIJDING</h2>
++			<h3>Saus</h3>
++			<ul class="berijdinglijst">
++				<li>Snijd de ui in kleine stukjes.</li>
++				<li>Verwarm wat olie in een wokpan en bak de uitjes glanzend.</li>
++				<li>Voeg de 2 bakjes spek toe en bak deze goudbruin.</li>
++				<li>Doe nu de spinazie erbij.</li>
++				<li>Als de spinazie vloeibaar is kan de boursin erbij en goed mengen.</li>
++				<li>Als de spinazie tegen het kookpunt zit is de saus klaar. (Laat de spinazie niet koken)</li>
++			</ul>
++			<h3>Macaroni</h3>
++			<ul class="berijdinglijst">
++				<li>Vul een pan met water en kook deze.</li>
++				<li>Wanneer het water kookt voeg je de macaroni toe.</li>
++				<li>Doe ook een beetje olie en zout erbij.</li>
++				<li>Na ongeveer 7 minuten koken is de macaroni klaar, maar vergeet natuurlijk niet te proeven!</li>
++			</ul>
++		</section>
++		<section>
++			<br>
++			<br>
++			<h3>Koop hier je ingredienten: (niet gesponsord)</h3>
++			<br>
++			<a href="http://www.ah.nl/?ns_mchannel=adwords&ns_source=merk_albert-heijn.webshop-albert-heijn&ns_campaign=AH_Brand&ns_linkname=albert%20heijn%20webshop&ns_fee=0">Albert Heijn</a>
++		</section>
++	</main>
++
++</body>
++
++</html>
+\ No newline at end of file
